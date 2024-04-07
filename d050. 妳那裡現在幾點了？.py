@@ -1,3 +1,4 @@
+# completed
 while 1:
     try:
         print((int(input())+9)%24)
