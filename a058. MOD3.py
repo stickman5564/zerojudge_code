@@ -1,3 +1,4 @@
+# completed
 n = int(input())
 list = [0,0,0]
 while n > 0:
