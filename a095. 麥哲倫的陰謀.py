@@ -6,5 +6,5 @@ while True:
             print(b)
         else:
             print(b+1)
-    except:
+    except EOFError:
         break
