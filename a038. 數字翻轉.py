@@ -1,3 +1,4 @@
+# completed
 num = list(input())
 num.reverse()
 ans = ""
